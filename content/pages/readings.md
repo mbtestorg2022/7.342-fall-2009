@@ -56,11 +56,11 @@ X chromosome genetics: Flies were first on the scene
 
 ### Paper 1
 
-Morgan, T. H. "Sex Limited Inheritance in _Drosophila_." _Science_ 32 (1910): 120-122. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.esp.org/foundations/genetics/classical/thm-10a.pdf))
+Morgan, T. H. "Sex Limited Inheritance in _Drosophila_." _Science_ 32 (1910): 120-122. ([PDF](http://www.esp.org/foundations/genetics/classical/thm-10a.pdf))
 
 ### Paper 2
 
-Sturtevant, A. H. "The Linear Arrangement of Six Sex-linked Factors in _Drosophila_, as Shown by Their Mode of Association." _Journal of Experimental Zoology_ 14 (1913): 43-59. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf))
+Sturtevant, A. H. "The Linear Arrangement of Six Sex-linked Factors in _Drosophila_, as Shown by Their Mode of Association." _Journal of Experimental Zoology_ 14 (1913): 43-59. ([PDF](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf))
 
 
 {{< tdclose >}}
